@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/room_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#F00"
+        android:layout_gravity="center_vertical"
+        android:textAlignment="center"
+        android:paddingTop="50dp"
+        />
+
+    <LinearLayout
+        android:id="@+id/player_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/player_layout_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#F00"
+            android:text="Players List"
+            android:layout_gravity="center_vertical"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/start_game"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="START GAME"
+        android:textColor="#F00"
+        android:layout_gravity="center_vertical"
+        android:textAlignment="center" />
+</LinearLayout>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "421018439040",
+    "firebase_url": "https://fir-test-5df8b-default-rtdb.firebaseio.com",
+    "project_id": "fir-test-5df8b",
+    "storage_bucket": "fir-test-5df8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421018439040:android:53c9ae0509b6fc011dc565",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421018439040-hkt24gjtamru6dt5fs3cm9tp6kdhr1jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK34FDyneKIuv9fYkcs-m4xsq0iiPJLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421018439040-hkt24gjtamru6dt5fs3cm9tp6kdhr1jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421018439040:android:ad1af193458cc93e1dc565",
+        "android_client_info": {
+          "package_name": "com.tcd.paintsplat.group5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421018439040-hkt24gjtamru6dt5fs3cm9tp6kdhr1jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK34FDyneKIuv9fYkcs-m4xsq0iiPJLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421018439040-hkt24gjtamru6dt5fs3cm9tp6kdhr1jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

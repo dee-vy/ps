@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaintSplat</string>
+    <string name="score">Score: %s</string>
+    <string name="title">Paint Splat</string>
+    <string name="create_room">Create Room</string>
+    <string name="join_room">Join Room</string>
+</resources>
